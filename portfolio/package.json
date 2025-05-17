@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    
   },
   "dependencies": {
     "framer-motion": "^11.18.2",
@@ -29,8 +30,6 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.7",
     "vite": "^6.3.5"
-  },
-  "scripts": {
-  "build": "vite build"
-}
+  }
+
 }
